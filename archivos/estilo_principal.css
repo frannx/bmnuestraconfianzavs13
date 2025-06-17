@@ -2712,9 +2712,8 @@
         display: none;
     }
     .menu-icon {
-        display: block;
+        display: flex;
         font-size: 1.8rem;
-        margin-left: -5550rem;
     }
     /* Mobile menu */
     .menu {
